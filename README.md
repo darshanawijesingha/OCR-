@@ -13,3 +13,14 @@ This is a simple Optical Character Recognition (OCR) tool built using Python and
 
 ```bash
 $ python ocr_reader.py --image sample_image.png --output extracted.txt
+```
+## git clone https://github.com/yourusername/python-ocr-reader.git
+## cd python-ocr-reader
+
+
+```
+.
+├── ocr_reader.py
+├── requirements.txt
+└── README.md
+```
